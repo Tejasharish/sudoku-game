@@ -1,2 +1,2 @@
 # sudoku game
- sudoku game using python (jupyter notebook) 
+ sudoku game using python (jupyter notebook). 
